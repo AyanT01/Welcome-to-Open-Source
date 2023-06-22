@@ -82,6 +82,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Preeti Raj</b></sub>
                 </a>
             </td>
+           
             <td align="center">
                 <a href="https://github.com/Kandi-Venkatesh99">
                     <img src="https://avatars.githubusercontent.com/u/63512343?s=400&u=c8cf2e6ce84a81836b5a4503af7cc9a854373b41&v=4" width="100px;" alt="Venkatesh k"/>
@@ -416,6 +417,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Yashwanth Reddy</b></sub>
                </a>
            </td>
+            <td align="center">
+                <a href="https://github.com/AyanT01">
+                    <img src="https://wallpapercave.com/wp/wp2007272.jpg" width="100px;" alt="Abdul Ayantayo"/>
+                    <br />
+                    <sub><b>Abdul A</b></sub>
+                </a>
+            </td>
            <td align="center">
                 <a href="https://github.com/imaxmayur">
                     <img src="https://avatars.githubusercontent.com/u/110410744?v=4" width="100px;" alt="Mayur Gosavi"/>
